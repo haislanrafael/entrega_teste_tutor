@@ -1,5 +1,5 @@
 
-# pgzrun intro.py
+
 
 # Roguelike Adventure (PgZero)
 
